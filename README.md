@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manny</h1>
 <h3 align="center">An Industrial Engineering Student @ UofT</h3>
 
-- 🔭 I’m currently working on [Predicting League of Legends Champions using Random Forests](https://github.com/mannkenn/LeagueOfLegendsPrediction)
+- 🔭 I’m currently working on [Clustering League of Legends Champions using PCA & K-means](https://github.com/mannkenn/ClusteringLoLChampions)
 
 - 🌱 I’m currently reading [Intro to Statistical Learning (in Python)](https://www.statlearning.com/)
 
