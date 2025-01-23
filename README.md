@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Clustering League of Legends Champions using PCA & K-means](https://github.com/mannkenn/ClusteringLoLChampions)
 
-- 🌱 I’m currently reading [Intro to Statistical Learning (in Python)](https://www.statlearning.com/)
+- 🌱 I’m currently reading [Intro to Statistical Learning (in Python)](https://www.statlearning.com/) & [Practical Statistics for Data Scientists](https://www.oreilly.com/library/view/practical-statistics-for/9781491952955/)
 
 - ⚡Fun Fact **I switched into Industrial Engineering after originally studying Mining Engineering!**
 
