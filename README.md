@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently reading [Intro to Statistical Learning (in Python)](https://www.statlearning.com/)
 
-- 👨‍💻 All of my projects are available at [https://mannkennportfolio.netlify.app/](https://mannkennportfolio.netlify.app/)
-
 - ⚡Fun Fact **I switched into Industrial Engineering after originally studying Mining Engineering!**
 
 
