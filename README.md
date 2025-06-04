@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manny</h1>
 <h3 align="center">An Industrial Engineering Student @ UofT</h3>
 
-- 🔭 I’m currently working on [analyzing canadian university subreddits](https://github.com/mannkenn/unversity-sentiment)
+- 🔭 I’m currently working on [analyzing canadian university subreddits](https://github.com/mannkenn/uni-sentiment-analysis)
 
 - 🌱 I’m currently reading [Intro to Statistical Learning (in Python)](https://www.statlearning.com/) & [Practical Statistics for Data Scientists](https://www.oreilly.com/library/view/practical-statistics-for/9781491952955/)
 
