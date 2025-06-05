@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Analyzing Canadian University Subreddits](https://github.com/mannkenn/uni-sentiment-analysis)
 
-- 🌱 I’m currently reading [Hands on ML)]([https://www.statlearning.com/](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/))
+- 🌱 I’m currently reading [Hands on ML](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 
 
 
