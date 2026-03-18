@@ -1,8 +1,2 @@
-
-currently reading [speech and language processing](https://web.stanford.edu/~jurafsky/slp3/)
-
-
-
-
-
+![me rn](https://raw.githubusercontent.com/yourusername/mannkenn/main/me.jpg)
 
