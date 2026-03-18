@@ -1,2 +1,2 @@
-![me rn](https://raw.githubusercontent.com/yourusername/mannkenn/main/me.jpg)
+![me rn](https://miro.medium.com/1*od2HLFzNoxk2JLDFFhUB3w.jpeg)
 
