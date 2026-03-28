@@ -1,2 +1,2 @@
-![me rn](https://miro.medium.com/1*od2HLFzNoxk2JLDFFhUB3w.jpeg)
+![me rn](Gemini_Generated_Image_d346bqd346bqd346.png)
 
